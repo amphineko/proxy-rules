@@ -57,7 +57,10 @@ DOMAIN-SUFFIX,xboxlive.com,DIRECT
 
 # Podcast Providers
 
+DOMAIN-SUFFIX,crazy.capital,DIRECT
 DOMAIN-SUFFIX,fireside.fm,DIRECT
+DOMAIN-SUFFIX,pan.icu,DIRECT
+DOMAIN-SUFFIX,static.thetype.cloud,DIRECT
 
 # Others
 
